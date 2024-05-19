@@ -1,0 +1,76 @@
+kits:
+  kit_pvp:
+    delay: 3600 # 1 hora em segundos
+    items:
+      - type: DIAMOND_SWORD
+        name: "&bEspada Poderosa"
+        lore:
+          - "&7Uma espada poderosa para dominar o PvP."
+        enchants:
+          pilhagem: 5
+          
+      - type: GOLDEN_APPLE
+        name: "&eMaçã Dourada"
+        lore:
+          - "&7Uma maçã que restaura vida."
+        amount: 3
+        enchants: {} # Sem encantamentos
+        
+      - type: DIAMOND_HELMET
+        name: "&bHELMO STREET" # Corrigido o nome
+        lore:
+          - "&7Um Helmo magnífico."
+        enchants: 
+          protecao: 10
+         
+      - type: DIAMOND_CHESTPLATE
+        name: "&bSHIRT STREET" # Corrigido o nome
+        lore:
+          - "&7Um Helmo magnífico."
+        enchants: 
+          protecao: 10 
+      
+      - type: DIAMOND_LEGGINGS
+        name: "&bLEGGINGS STREET" # Corrigido o nome
+        lore:
+          - "&7Um Helmo magnífico."
+        enchants: 
+          protecao: 10       
+
+  noob:
+    delay: 3600 # 1 hora em segundos
+    items:
+      - type: DIAMOND_SWORD
+        name: "&bEspada Poderosa"
+        lore:
+          - "&7Uma espada poderosa para dominar o PvP."
+        enchants:
+          pilhagem: 5
+          
+      - type: GOLDEN_APPLE
+        name: "&eMaçã Dourada"
+        lore:
+          - "&7Uma maçã que restaura vida."
+        amount: 3
+        enchants: {} # Sem encantamentos
+        
+      - type: DIAMOND_HELMET
+        name: "&bHELMO STREET" # Corrigido o nome
+        lore:
+          - "&7Um Helmo magnífico."
+        enchants: 
+          protecao: 10
+         
+      - type: DIAMOND_CHESTPLATE
+        name: "&bSHIRT STREET" # Corrigido o nome
+        lore:
+          - "&7Um Helmo magnífico."
+        enchants: 
+          protecao: 10 
+      
+      - type: DIAMOND_LEGGINGS
+        name: "&bLEGGINGS STREET" # Corrigido o nome
+        lore:
+          - "&7Um Helmo magnífico."
+        enchants: 
+          protecao: 10     

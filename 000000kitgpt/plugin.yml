@@ -1,0 +1,13 @@
+name: KitPlugin
+version: 1.0
+main: me.klarcky.kitgpt.Main
+author: klarcky
+description: Um plugin simples para gerenciar kits de jogadores.
+
+commands:
+  kit:
+    description: Resgata um kit.
+    usage: /kit <nome_do_kit>
+    permission: kitplugin.use
+
+config: kits.yml
